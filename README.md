@@ -1,6 +1,6 @@
 AMAinventory
 
-Comprehensive Equipment & Inventory Tracker for a Muslim Community Basketball League
+Comprehensive Equipment & Inventory Tracker 
 
 AMAinventory is a streamlined inventory management tool designed specifically for Muslim community basketball leagues. It helps organizers, coaches, and volunteers keep track of all essential league equipment—jerseys, balls, scoreboards, first-aid kits, training gear, and more—in a clean, organized, and reliable system.
 
